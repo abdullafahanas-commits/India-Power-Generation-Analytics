@@ -43,8 +43,7 @@ MySQL
 (Data Storage & SQL Analysis)
        ↓
 Power BI
-(Interactive Dashboard & Visualization)
-India-Power-Generation-Analytics/
+(Interactive Dashboard & Visualization)India-Power-Generation-Analytics/
 │
 ├── data/
 │   ├── power_generation.csv
@@ -62,4 +61,5 @@ India-Power-Generation-Analytics/
 ├── images/
 │   └── dashboard_preview.png
 │
+└── README.md
 └── README.md
