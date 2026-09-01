@@ -2,13 +2,13 @@
 
 ## 📊 Project Overview
 
-This project analyzes state-wise power generation in India, with a focus on renewable and conventional energy sources.
+This project analyzes state-wise power generation in India, with a focus on renewable and conventional energy sources for the **2021–2022** period.
 
 The project demonstrates an end-to-end data analytics workflow using:
 
 **Python (Pandas) → MySQL → Power BI**
 
-The analysis includes data cleaning, SQL-based exploration, renewable energy comparison, and an interactive Power BI dashboard.
+The workflow covers data cleaning and preprocessing, SQL-based analysis, comparative energy analysis, and interactive dashboard development.
 
 ---
 
@@ -18,14 +18,14 @@ The analysis includes data cleaning, SQL-based exploration, renewable energy com
 
 ## 📍 Geographic Coverage
 
-India – States and Union Territories
+**India – States and Union Territories**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Python** – Data cleaning and preprocessing
-- **Pandas** – Data manipulation
+- **Pandas** – Data manipulation and transformation
 - **MySQL** – Data storage and SQL analysis
 - **Power BI** – Interactive dashboard and data visualization
 
@@ -35,18 +35,18 @@ India – States and Union Territories
 
 ```text
 Raw CSV Dataset
-      ↓
+       ↓
 Python & Pandas
-(Data Cleaning and Transformation)
-      ↓
+(Data Cleaning & Transformation)
+       ↓
 MySQL
-(SQL Queries and Analysis)
-      ↓
+(Data Storage & SQL Analysis)
+       ↓
 Power BI
-(Interactive Dashboard)
+(Interactive Dashboard & Visualization)
 
 
-
+📂 Project Structure
 India-Power-Generation-Analytics/
 │
 ├── data/
@@ -57,7 +57,7 @@ India-Power-Generation-Analytics/
 │   └── data_processing.py
 │
 ├── sql/
-│   └── power_generation_analysis.sql
+│   └── india_power_analytics.sql
 │
 ├── dashboard/
 │   └── India_Power_Generation_Analytics.pbix
@@ -67,28 +67,30 @@ India-Power-Generation-Analytics/
 │
 └── README.md
 
-
 📈 Key Analysis Performed
 Total power generation analysis
 Renewable vs conventional energy comparison
 Renewable energy share calculation
 Top 10 states by total power generation
 Top 10 states by renewable energy generation
-Solar, wind, bio-power and small hydro analysis
+Solar energy analysis
+Wind energy analysis
+Bio-power analysis
+Small hydro analysis
 Renewable energy source distribution
 State-wise renewable energy classification
 Dominant renewable energy source analysis
 🔍 Key Insights
-The project analyzes power generation across 36 States and Union Territories.
+The dataset contains power generation information for 36 States and Union Territories.
 Renewable energy contribution was compared with conventional energy generation.
-Solar and wind were identified as major renewable energy sources in the dataset.
-Renewable energy performance varies significantly across States and Union Territories.
-The Power BI dashboard allows interactive filtering by State/UT.
-📊 Dashboard
-
+Solar and wind emerged as major renewable energy sources in the dataset.
+Renewable energy contribution varies significantly across States and Union Territories.
+Different States/UTs show different dominant renewable energy sources.
+The Power BI dashboard provides interactive State/UT-level analysis.
+📊 Power BI Dashboard
 ![India Power Generation Dashboard](images/dashboard_preview.png)
-The interactive dashboard includes:
 
+Dashboard Features
 Total Power Generation KPI
 Total Renewable Energy KPI
 Total Conventional Energy KPI
@@ -99,6 +101,13 @@ Renewable vs Conventional Energy Comparison
 Renewable Energy Source Distribution
 State-wise Energy Performance
 Interactive State/UT Filter
+💡 Project Highlights
+
+This project demonstrates an end-to-end analytics workflow:
+
+Data Processing → Database Management → SQL Analysis → Business Insights → Data Visualization
+
+It combines technical data analytics skills with an energy and sustainability-focused use case.
 
 👤 Author
 
