@@ -71,7 +71,22 @@ India-Power-Generation-Analytics/
 │
 └── README.md
 ```
+## 📊 Power BI Dashboard
 
+![India Power Generation Dashboard](images/dashboard_preview.png)
+
+### Dashboard Features
+
+- Total Power Generation KPI
+- Total Renewable Energy KPI
+- Total Conventional Energy KPI
+- Renewable Energy Share
+- Top 10 States by Total Power Generation
+- Top 10 States by Renewable Energy
+- Renewable vs Conventional Energy Comparison
+- Renewable Energy Source Distribution
+- State-wise Energy Performance
+- Interactive State/UT Filter
 ---
 
 ## 📈 Key Analysis Performed
