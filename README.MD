@@ -33,6 +33,8 @@ The workflow covers data cleaning and preprocessing, SQL-based analysis, compara
 
 ## 🔄 Project Workflow
 
+## 🔄 Project Workflow
+
 ```text
 Raw CSV Dataset
        ↓
@@ -43,7 +45,15 @@ MySQL
 (Data Storage & SQL Analysis)
        ↓
 Power BI
-(Interactive Dashboard & Visualization)India-Power-Generation-Analytics/
+(Interactive Dashboard & Visualization)
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+India-Power-Generation-Analytics/
 │
 ├── data/
 │   ├── power_generation.csv
@@ -62,4 +72,21 @@ Power BI
 │   └── dashboard_preview.png
 │
 └── README.md
-└── README.md
+```
+
+---
+
+## 📈 Key Analysis Performed
+
+- Total power generation analysis
+- Renewable vs conventional energy comparison
+- Renewable energy share calculation
+- Top 10 states by total power generation
+- Top 10 states by renewable energy generation
+- Solar energy analysis
+- Wind energy analysis
+- Bio-power analysis
+- Small hydro analysis
+- Renewable energy source distribution
+- State-wise renewable energy classification
+- Dominant renewable energy source analysis
