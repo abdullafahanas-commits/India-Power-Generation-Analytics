@@ -86,6 +86,7 @@ Renewable energy performance varies significantly across States and Union Territ
 The Power BI dashboard allows interactive filtering by State/UT.
 📊 Dashboard
 
+![India Power Generation Dashboard](images/dashboard_preview.png)
 The interactive dashboard includes:
 
 Total Power Generation KPI
