@@ -33,8 +33,6 @@ The workflow covers data cleaning and preprocessing, SQL-based analysis, compara
 
 ## 🔄 Project Workflow
 
-## 🔄 Project Workflow
-
 ```text
 Raw CSV Dataset
        ↓
